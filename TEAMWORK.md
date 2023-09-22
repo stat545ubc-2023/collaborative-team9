@@ -1,7 +1,7 @@
 ## Teamwork Contract
 ### Collaborators
-Christine Chuong @cchuong  
-Vincent Halim @mvhalim
+Christine Chuong  
+Vincent Halim 
 ### Division of Labour
 Each collaborator will have a task list assigned, since the team only has 2 members we can equally split the workload. Work that is done collaboratively will be on its own section  
 
